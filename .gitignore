@@ -1,0 +1,10 @@
+.idea/
+bin/
+vendor/
+terraform-provider-volcstack
+.terraform/
+*.tfstate
+*.tfstate.*
+.*hcl
+output_result
+*.log
